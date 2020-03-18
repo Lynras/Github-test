@@ -7,6 +7,12 @@ namespace Github_Test
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World hehhehehe!");
+
+
+            Car car = new Car("BMW");
+
+            Console.WriteLine(car);
+
         }
     }
 }
